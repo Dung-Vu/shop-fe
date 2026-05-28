@@ -1,0 +1,21 @@
+{
+  "name": "aura-enterprise-analytics-suite-tests",
+  "version": "5.0.0",
+  "description": "Automated E2E Testing Suite for AURA Enterprise Analytics Suite V5.0",
+  "main": "run-tests.js",
+  "scripts": {
+    "test": "node run-tests.js"
+  },
+  "keywords": [
+    "e2e",
+    "testing",
+    "jsdom",
+    "aura",
+    "analytics"
+  ],
+  "author": "E2E Testing Specialist",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^24.0.0"
+  }
+}
