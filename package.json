@@ -17,5 +17,6 @@
   "license": "ISC",
   "dependencies": {
     "jsdom": "^24.0.0"
-  }
+  },
+  "packageManager": "pnpm@11.5.1"
 }
